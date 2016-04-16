@@ -1,7 +1,7 @@
 # Course-3-Eindopdracht
 Eindopdracht Course 3 (2016)
 
-Sanne Geraets
+Sanne Geraets <br />
 Bi1d
 Bio Informatica
 
