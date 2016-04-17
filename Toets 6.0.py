@@ -1,8 +1,11 @@
 # -*- coding: utf-8 -*-
 """
 Created on 11-4-2016
-
 @author: Sanne Geraets
+
+Bronnen en referenties:
+Om de maximale variabele uit een dict te vinden is StackOverflow geraadpleegd. Voor de exceptionhandeling heb ik Gonnie om advies gevraagd en met Melanie Opperman overlegd. Om te splitten op meerder charakters tegenlijk heb ik ook StackOverflow geraadpleegd.
+
 
 11-4-2016:
     Opzet gemaakt, zonder classes. Bestand openen, splitten op >. En begonnen
